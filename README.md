@@ -14,7 +14,7 @@
 ---
 
 ### Tech Stack
-- **Languages**: C, Python, Shell, 前端
+- **Languages**: C, Python, Shell
 - **Environments**: GNU/Linux (Fedora), Git
 
 ---
