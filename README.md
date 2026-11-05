@@ -7,7 +7,7 @@
 </p>
 
 
-### Contact & Inquiries / 联系方式
+### Contact & Inquiries
 > **Email**: [`mikulxz08@gmail.com`](mailto:mikulxz08@gmail.com)  
 > Feel free to reach out for collaborations, project discussions, or inquiries!
 
